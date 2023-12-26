@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ying Huang
+    tagline: Health Informatician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: peteryh@umich.edu
+    phone: 734 637 6468
     timezone: America/Cancun Timezone
-    citizenship:
+    citizenship: 
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: peter-huang-200907270
     xing: alandoe
-    github: sharu725
+    github: peteryinghuang
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@nudthuang'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://docs.google.com/document/d/1d3D9YC1Xo-jTkrdyP_5HeEJvgRqRBQHTNYTg4NTFW1s/edit?usp=sharing
 
     languages:
       title: Languages
